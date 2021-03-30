@@ -10,7 +10,7 @@ You need to configure manually Data source(Prometheus).
 install-aws-tools.sh => install aws tool and kops for kubernetes cluster.
 
 kubernetes-claster.sh => setup k8s cluster.
-You need to setup in file (PREFIX, URL, AWS_REGION).
+You need to write in file your (PREFIX, URL, AWS_REGION).
 
 
 Queue
