@@ -16,6 +16,6 @@ You need to write in file your (PREFIX, URL, AWS_REGION).
 Queue
 1. Create aws server with ubuntu
 2. install-aws-tools.sh
-3. kubernetes-claster.sh (Unfortunately I could not test this script because I do not have an aws account, but based on the guides I read, it should work)
+3. kubernetes-claster.sh
 4. prometheus.sh
 5. grafana.sh
